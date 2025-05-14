@@ -15,7 +15,6 @@
 //     Updated array: 1 2 10 3 4 5
 
 
-    // You are using GCC
     #include<iostream>
     using namespace std;
     int main(){
